@@ -13,11 +13,11 @@ def index():
         },
         {
             'author': {'username': 'Susan'},
-            'body': 'The Avengers movie cool!'
+            'body': 'The Avengers movie was cool!'
         },
         {
             'author': {'username': 'Charlie'},
-            'body': 'But Thor: Ragnarok better!'
+            'body': 'But Thor: Ragnarok is better!'
         }
 
     ]
